@@ -6,6 +6,10 @@ A purpose-built chatbot where you converse directly with **Marcus Aurelius** —
 
 ---
 
+## Deployed Link on Vercel
+
+https://marcus-aurelius-jdgc.vercel.app/
+
 ## Why This Topic
 
 Marcus Aurelius wrote the *Meditations* as a private journal — never intended for publication. It's arguably the most intimate document of philosophical struggle ever written: a man who commanded an empire, fought wars, and buried children, yet returned every morning to remind himself how to be better.
