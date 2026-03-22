@@ -16,6 +16,12 @@ The design reflects this: dark, aged, textured — like speaking across centurie
 
 ---
 
+## Deployed Link 
+
+https://marcus-aurelius-jdgc.vercel.app/
+
+---
+
 ## What's Built
 
 - **Next.js 14** (App Router, TypeScript)
