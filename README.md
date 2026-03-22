@@ -3,7 +3,7 @@
 > *"You have power over your mind, not outside events. Realize this, and you will find strength."*
 > — Marcus Aurelius, Meditations
 
-**Live Demo → [marcus-aurelius-jdgc.vercel.app](https://marcus-aurelius-jdgc.vercel.app)**
+**Live Demo → [marcus-aurelius-jdgc.vercel.app](https://marcus-aurelius-c46l.vercel.app/)**
 
 **GitHub → [github.com/IshantttGupta/MARCUS-AURELIUS](https://github.com/IshantttGupta/MARCUS-AURELIUS)**
 
